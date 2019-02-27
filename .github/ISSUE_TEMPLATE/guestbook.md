@@ -1,16 +1,13 @@
 ---
 name: Guestbook
 about: Leave a message for Futaba Isshiki.
-title: ''
+title: "[Message]"
 labels: question
-assignees: ''
+assignees: issiki
 
 ---
 
-## Your Name:<!-- type your name below -->
+## Article URL:<!-- ask someting about an article? (关于文章的疑问？请提供文章URL。) -->
 
 
-## Article URL:<!-- ask someting about an article? -->
-
-
-## Message:<!-- leave a message below -->
+## Message:<!-- leave a message below. (于下方留言。) -->
